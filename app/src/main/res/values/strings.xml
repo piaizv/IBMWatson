@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IBM Watson</string>
+    <string name="text">Text</string>
+    <string name="watson_button">watson</string>
+    <string name="intent">Intent</string>
+    <string name="response">Response</string>
+</resources>
